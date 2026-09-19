@@ -7,7 +7,7 @@ For big parts, make sure to use a brim to keep bed adhesion, and prevent warping
 
 Make sure there are 2 side bars.
 
-###### All of the parts should consist of:
+#### All of the parts should consist of:
 
 Bar Back
 
