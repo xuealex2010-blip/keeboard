@@ -6,6 +6,7 @@ Hey, thanks for checking this out, this is my own attempt at creating a DIY 75% 
 More details about the process can be found in the Journal Logs.
 
 ## CAD
+https://cad.onshape.com/documents/ea891d14d2da634eb3b1d96d/w/6142ce2636ba78c1d8d6bd10/e/d20a11642471013c1442f2cf
 
 <img width="2310" height="1335" alt="Screenshot_20260919_161556" src="https://github.com/user-attachments/assets/edefbc54-321a-4b6a-87cb-14db47dd6922" />
 
