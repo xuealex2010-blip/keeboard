@@ -4,6 +4,8 @@ They should be oriented properly at the start, look for the teardrop shapes, fac
 
 For big parts, make sure to use a brim to keep bed adhesion, and prevent warping.
 
+These parts have been designed to fit in a 256x256 printing bed. The long bars will need to be rotated 45 degrees to print.
+
 
 Make sure there are 2 side bars.
 
