@@ -17,6 +17,7 @@ I decided to go for an affordable green keycap set since I love the color and it
 I used heat set inserts and square nuts to hold the case together, I think that this is better than a large 3D print as its designed to be printed at that size. I used only 2 screw lengths which kept the hardware costs low.
 
 ## KiCad
+https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fxuealex2010-blip%2Fkeeboard%2Ftree%2Fmain%2FPCB
 
 ### Schematic
 
@@ -32,3 +33,9 @@ I used a generic connector instead of the PiPico symbol to manage the GPIO posit
 This PCB uses a lot more vias than expected, this was to separate the long traces better, and improve ground fill space.
 
 I also made special edge cuts in the PCB, this is because the low profile layout stabilizers drop deep below the plate that it would collide with the PCB if not so.
+
+## Reflection
+
+This was a fun journey, I learned a lot about keyboards, PCB design, and even some more cad skills in specific use cases.
+I wanted to do this project because I thought it would be nice to get a cool mechanical keyboard. This still remains so, but I also realize how much I was able to learn. I also think that the this keyboard is much more than a mechanical keyboard, since it has sentimental value since, well I made it. 
+I would like to thank Hack Club for showing me this opportunity, even if I don't get to build it, I have learned a lot.
