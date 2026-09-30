@@ -1,3 +1,10 @@
+---
+title: "My Project Name"
+author: "your-name"
+description: "A short description of your project"
+created_at: "2026-03-20"
+---
+
 # Journal
 
 ### 2026.09.19
