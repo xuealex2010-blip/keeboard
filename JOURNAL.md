@@ -6,6 +6,7 @@ created_at: "2026-08-19"
 ---
 
 "22 hours"
+
 For transparency, this was created for the YSWS Keeb, but I do not know if I messed up the submission form, and am unsure if I will be able to finish this.
 
 # Journal
@@ -16,7 +17,7 @@ First journal entry of the build progress, I have been browsing the web looking 
 ### 2026.08.20
 
 Time Logged: 
-"2 hours"
+**Total time spent: 2h**
 
 <img width="2225" height="980" alt="Screenshot_20260820_072820" src="https://github.com/user-attachments/assets/1da52983-f722-456a-b50c-c99b879b88d8" />
 I spent some time in onshape planning what I would like the layout of my keyboard to be, I like the design of a 75% since it also makes the space for a rotary encoder.
