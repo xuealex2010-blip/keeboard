@@ -5,7 +5,6 @@ description: "A 75% mechanical low profile keyboard that I designed"
 created_at: "2026-08-19"
 ---
 
-"22 hours"
 
 For transparency, this was created for the YSWS Keeb, but I do not know if I messed up the submission form, and am unsure if I will be able to finish this.
 
@@ -16,7 +15,6 @@ First journal entry of the build progress, I have been browsing the web looking 
 
 ### 2026.08.20
 
-Time Logged: 
 **Total time spent: 2h**
 
 <img width="2225" height="980" alt="Screenshot_20260820_072820" src="https://github.com/user-attachments/assets/1da52983-f722-456a-b50c-c99b879b88d8" />
@@ -28,8 +26,8 @@ I learned a bit about different keyboard layouts, like 60% TKL etc. I think that
 
 ### 2026.08.22
 
-Time Logged: "30 mins"
-0.5 hours
+**Total time spent: 30m**
+
 Spent some time learning how to use keyboard design generators, this will save me time when I have to port it into CAD software.
 <img width="3054" height="1207" alt="Screenshot_20260822_145927" src="https://github.com/user-attachments/assets/57b2a74d-7813-46ee-b9c3-2b8ad79742d4" />
 
@@ -38,13 +36,15 @@ I learned about KLE and how to use it, I like using the raw text editing since i
 
 
 
-Time Logged: "1.5 hours"
+**Total time spent: 1h 30m**
+
 I decided to commit to the different layout, as the expanded version in my opinion will be more functional, and visually appealing. I now feel ready to begin the PCB design.
 <img width="2187" height="892" alt="Screenshot_20260822_172320" src="https://github.com/user-attachments/assets/8bd238c7-726a-4cdd-8942-6a411161b1e3" />
 
 ### 2026.08.23
 
-Logged Time: "1 hour"
+**Total time spent: 1h**
+
 Created the schematic for the keyboard, used the work I had done earlier to guide the layout, I decided to try and use a nice nano symbol, as there are many cheap ones on aliexpress.
 
 <img width="2252" height="1593" alt="Screenshot_20260823_092817" src="https://github.com/user-attachments/assets/387d478d-8ccf-433a-8df1-dd39530f7466" />
@@ -52,7 +52,8 @@ Created the schematic for the keyboard, used the work I had done earlier to guid
 I learned that I need to pay attention to the diode placement, since it will be important when choosing row2col or col2row scanning.
 
 
-Logged Time: "2 hours"
+**Total time spent: 2h**
+
 I worked on the PCB now that I had gotten the rough schematic done, this work was done so that I could check the size and components in cad.
 Along with the pcb, I worked on combined footprints to support multiple components in the same spot.
 
@@ -62,8 +63,8 @@ I learned how to use the KiCad footprint editor, I feel pretty good with it now,
 
 ### 2026.08.29
 
-Logged Time: "52 mins"
-0.9 hours
+**Total time spent: 52m**
+
 Took a bit of a while between the last time I worked on this.
 
 I had to reroute the schematic and its diodes so that it properly fits the ROW2COL setup rather than the COL2ROW scanning.
@@ -73,7 +74,7 @@ While I was doing so, I decided that I should also implement solder pads in the 
 
 ### 2026.08.31
 
-Time Logged: "1.5 hours"
+**Total time spent: 1h 30m**
 
 Worked on creating the stabilizer mounts, since there are very limited PCB mounted low profile stabilizers, I went with Plate mounted, and had to look through the Gateron datasheets to create a new footprint for the cutouts.
 <img width="2042" height="1029" alt="Screenshot_20260831_173445" src="https://github.com/user-attachments/assets/18c9a806-cebd-4c7d-af1f-8fb841ff3cd4" />
@@ -83,7 +84,7 @@ I learned about the different between plate and PCB mounted stabilizers, unfortu
 
 ### 2026.09.01
 
-Logged Time: "2 hours"
+**Total time spent: 2h**
 
 I decided that the wireless idea was not going to be worth it, since the necessary GPIO pins was too many for the pro micro footprint.
 
@@ -96,7 +97,7 @@ Note: Since this is a low profile design, I had to add slots in the PCB, this me
 
 ### 2026.09.05
 
-Time Logged: "4 hours"
+**Total time spent: 4h**
 
 After overcoming my decision paralysis on what to do. I have decided to commit to using a pi pico as the mcu, this is because it will have all of the gpio pins that I need.
 I also decided to change the layout from a fully exploded to only partially, compacting most except the function row. This is because I did not like the look of a cover that would have had to be made in many pieces.
@@ -111,7 +112,7 @@ I learned while routing the traces, it becomes quite compact and tight on space 
 
 ### 2026.09.06
 
-Logged Time: "2 hours"
+**Total time spent: 2h**
 
 Today I spent some time fiddling with the Pico's placement to optimize the 2 goals I had. Keep the port towards the left region of the board and make traces well routed.
 
@@ -126,7 +127,7 @@ DRC checker shows 3 errors with the gnd pin connections, but despite this, I bel
 
 
 Log 2
-Time Logged "3 hours"
+**Total time spent: 3h**
 
 Got some time this weekend, so I kept going at it.
 I exported the PCB and began a prototype case design. To optimize for 3d printing, my goal will be to make the aesthetics work with the maximum sizes.
@@ -136,8 +137,8 @@ I also had a mock up for how much of a tilt angle I will need to have on the key
 
 ### 2026.09.11
 
-Logged time "45 mins"
-0.75 hours
+**Total time spent: 45m**
+
 
 Today I used the measurements I took last time to model the actual case. This is a prototype size, but it gives me a sense of how the hardware will fit in place.
 
@@ -145,8 +146,7 @@ Today I used the measurements I took last time to model the actual case. This is
 
 ### 2026.09.19
 
-Logged Time: "50 minutes"
-0.9 Hours
+**Total time spent: 50m**
 
 Today I finished up the case design. I finalized the bottom cover mounting by using heat set inserts, and made sure that the overhangs were fixed for some of the parts.
 
