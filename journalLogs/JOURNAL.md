@@ -1,1 +1,6 @@
+# Journal
 
+### 2026.09.19
+First journal entry of the build progress, I have been browsing the web looking for what keyboard I think would be fun to build, as well as the use of rotary encoders. This is a simple log so far, I have only been brainstorming ideas, looking forward to getting able to build it.
+
+### 2026.08.20
