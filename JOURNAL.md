@@ -8,6 +8,9 @@ created_at: "2026-08-19"
 
 For transparency, this was created for the YSWS Keeb, but I do not know if I messed up the submission form, and am unsure if I will be able to finish this.
 
+Time across all logs:
+**Total time spent: 22h**
+
 # Journal
 
 ### 2026.08.19
